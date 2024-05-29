@@ -31,7 +31,7 @@ export const PROJECTS = [
     image2: project1b,
     description:
       "Developed an application as an undergraduate thesis project, subsequently utilized by the Ministry of Environment and Forestry for effective surveillance of land and forest fires, demonstrating impactful real-world application of academic research.",
-    technologies: ["Kotlin", "SQLite"],
+    technologies: ["Kotlin", "SQLite", "XML"],
   },
   {
     title: "Foodcourt App",
@@ -39,7 +39,7 @@ export const PROJECTS = [
     image2: project2b,
     description:
       "Developed a transaction mobile application system for food courts, comprising both a client and merchant application, facilitating seamless transactions and enabling merchants to effectively manage real-time profits.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["Kotlin", "SQLite", "XML"],
   },
   // {
   //   title: "Portfolio Website",
